@@ -1,7 +1,7 @@
 #!/bin/bash
 
-echo "you are test t1,please input your name!"
+echo -e "\nyou are test t1,please input your name!"
 
 read name
 
-echo "your name is $name!"
+echo -e "\nyour name is $name!"
